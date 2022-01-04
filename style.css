@@ -150,7 +150,7 @@ img {
 
 #brand-logo {
   width: 380px;
-  margin: 10px 0;
+  margin: 20px 0;
   background-color: #;
   box-shadow: ;
 }
@@ -253,6 +253,7 @@ img {
 .lead-slider-carousel-box {
   border-style: none;
   background: var(--dark);
+  margin-top: 20px;
   box-shadow: 0 1px 5px #021021c0;
 }
 .lead-slider-carousel-item-anchor h1{
