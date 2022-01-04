@@ -287,20 +287,20 @@ img {
   text-align: left;
   border-left: 2px solid rgb(104, 103, 103);
 }
-.carousel-item-in .carousel-artile-background {
+.carousel-item .carousel-artile-background {
   height: 100%;
   font-family: solaimanlipi;
   background-color: #052962;
 }
-.carousel-item-in .lead-slider-card  {
+.carousel-item .lead-slider-card  {
   background: var(--light);
   border-style: none;
 }
-.carousel-item-in a {
+.carousel-item a {
   text-decoration: none;
   letter-spacing: 1px;
 }
-.carousel-item-in .lead-slider-card {
+.carousel-item .lead-slider-card {
   background-color: #052962;
 }
 
