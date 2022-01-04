@@ -214,10 +214,10 @@ img {
   font-weight: 500;
   padding: 6px 50px;
   background: #052962;
-  box-shadow: 0 1px 5px rgba(255, 253, 253, 0.8);
+  box-shadow: 0 1px 5px #000;
 }
 .main-nav ul li ul li a:hover {
-  background: #b30000;
+  background: #093b8b;
   color: var(--light);
 }
 
