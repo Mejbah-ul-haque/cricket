@@ -114,7 +114,6 @@ html {
 }
 
 body {
-  background: #052252;
   line-height: 1.4;
   font-family: solaimanlipi;
   margin-top: 0;
@@ -141,7 +140,7 @@ img {
   font-family: solaimanlipi;
 }
 .body {
-  background: #052252;
+  background: #f1f0f0;
 }
 
 /* Brand Logo */
@@ -366,9 +365,7 @@ img {
 #vertical-lead:hover .card-img-top {
   transform: scale(1.2);
 }
-#vertical-short:hover .card-img-top {
-  transform: scale(1.2);
-}
+
 #vertical-short-xs:hover .card-img-top {
   transform: scale(1.2);
 }
@@ -734,28 +731,28 @@ img {
 /* vertical-short */
 
 #vertical-short {
-  border-style: none;
-  background: #052962;
-  border: 3px solid #23058f;
   height: 255px;
   padding-bottom: 0;
-  border: 1px solid #041c41;
-  box-shadow: 0 1px 5px #021021c0;
+}
+.card-img-top {
+  transition: 3s;
+}
+#vertical-short:hover .card-img-top {
+  transform: scale(1.2);
 }
 
 #vertical-short h6 {
-  font-size: 1.1rem;
-  font-weight: 500;
+  font-weight: 600;
   line-height: normal;
-  color: rgb(253, 252, 252);
+  color: rgb(41, 40, 40);
 }
 
 #vertical-short h6:hover {
-  color: greenyellow;
+  color: green;
 }
 
 #vertical-short .card-body {
-  background: #052962;
+  background: white;
   padding-bottom: 0;
 }
 
