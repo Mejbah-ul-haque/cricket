@@ -120,7 +120,6 @@ body {
   margin-top: 0;
   padding-top: 0;
   font-weight: lighter;
-
 }
 
 .btn {
@@ -140,7 +139,6 @@ img {
 * {
   text-decoration: none;
   font-family: solaimanlipi;
-  
 }
 .body {
   background: #052252;
@@ -247,7 +245,6 @@ img {
   }
 }
 
-
 /* Lead-Slider */
 
 .lead-slider-carousel-box {
@@ -256,7 +253,7 @@ img {
   margin-top: 20px;
   box-shadow: 0 1px 5px #021021c0;
 }
-.lead-slider-carousel-item-anchor h1{
+.lead-slider-carousel-item-anchor h1 {
   font-size: 65px;
   font-weight: 900;
   color: white;
@@ -266,7 +263,7 @@ img {
   text-decoration: black;
   text-align: left;
 }
-.lead-slider-carousel-item-anchor h2{
+.lead-slider-carousel-item-anchor h2 {
   font-size: 40px;
   font-weight: 600;
   color: #f7c995;
@@ -276,7 +273,7 @@ img {
   text-decoration: black;
   text-align: left;
 }
-.lead-slider-carousel-item-anchor p{
+.lead-slider-carousel-item-anchor p {
   font-size: 1.1rem;
   font-weight: 500;
   color: #c5c5c5;
@@ -292,7 +289,7 @@ img {
   font-family: solaimanlipi;
   background-color: #052962;
 }
-.carousel-item .lead-slider-card  {
+.carousel-item .lead-slider-card {
   background: var(--light);
   border-style: none;
 }
@@ -323,44 +320,23 @@ img {
 }
 
 @media (max-width: 1024px) {
-
 }
 @media (max-width: 992px) {
-  
- 
 }
 
 @media (max-width: 768px) {
- 
 }
 
 @media (max-width: 576px) {
-  
 }
 @media (min-width: 1920px) {
- 
 }
-
-
-
-
-
-
-
 
 .btn:hover {
   font-family: solaimanlipi;
   background-color: #ccc;
   color: #000;
 }
-
-
-
-
-
-
-
-
 
 /* Transition */
 .image-div {
@@ -1087,10 +1063,6 @@ img {
 
 .header {
 }
-
-
-
-
 
 /* carousel-box */
 
